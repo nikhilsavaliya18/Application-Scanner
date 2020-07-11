@@ -1,4 +1,4 @@
-# sacnner_app
+# scanner_app
 
 A new Flutter application.
 
